@@ -56,4 +56,8 @@ list.From the group user can add new email id or delete one email id at a time.T
 you will go to the main menu.
 
 There is an option to go back to the calendar.
- 
+
+Developers:
+Shams Tanveer Jim
+Faysal Mahmud
+Sadat Arefin Rafat
